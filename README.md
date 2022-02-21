@@ -1,3 +1,25 @@
+# Remove Background
+## Quick Test
+Run [removebg.ipynb](./removebg.ipynb)\
+(for checkpoints and other details, please read the [original README](#original).)
+## Image Path
+**Image** | Path
+--- | ---
+Input images | ./input_images
+results | ./result_images
+
+## Result
+<p align="center">
+<img src="./test_data/test_images/0002-01.jpg" style="zoom:40%" />
+<img src="./test_data/u2net_results/0002-01.png" style="zoom:40%" />
+</p>
+<p align="center">
+  <img src="./result_images/out.png" style="zoom:40%" />
+</p>
+
+<br>
+
+<h1 id="original">Original README</h1>
 <p align="center">
   <img width="320" height="320" src="figures/U2Net_Logo.png">
   
