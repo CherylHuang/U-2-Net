@@ -10,11 +10,11 @@ results | ./result_images
 
 ## Result
 <p align="center">
-<img src="./test_data/test_images/0002-01.jpg" style="zoom:40%" />
-<img src="./test_data/u2net_results/0002-01.png" style="zoom:40%" />
+<img src="./test_data/test_images/0002-01.jpg" width="300px" />
+<img src="./test_data/u2net_results/0002-01.png" width="300px" />
 </p>
 <p align="center">
-  <img src="./result_images/out.png" style="zoom:40%" />
+  <img src="./result_images/out.png" width="300px" />
 </p>
 
 <br>
